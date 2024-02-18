@@ -1,0 +1,169 @@
+
+.main-head{
+    /* position: relative; */
+    text-align: center;
+
+
+
+    /* max-width: 90%;
+    max-height: 90% ; */
+    /* width: 8000px; */
+    margin: 0;
+}
+
+.main-head img{
+    /* background-size: cover; */
+    width: 100%;
+    height: 700px;
+    display:block;
+    margin:0;
+}
+#ref{
+    position: absolute;
+    top: 3%;
+    right: 3%;
+    color: rgb(12, 236, 87);
+    font-weight: bold;
+
+}
+
+#header {
+    font-weight: 800px;
+    font-family: Raleway;
+    text-shadow: 0.5px 4.5px 15px rgb(115, 220, 115);
+    text-align: center;
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}
+
+
+
+
+#container{
+    
+    text-align: center;
+
+    
+    /* text-align: center; */
+    
+    
+}
+
+.how-are-you{
+    font-family: Raleway;
+    font-size: 20px;
+    color: rgb(17, 78, 17)
+    
+}
+
+#textBox1{
+
+    margin-top: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-size: 40px;
+    text-align: center;
+    background-image: white;
+    font-family: Raleway;
+    position: relative;
+    width: auto;
+    height: 300px;
+    
+}
+
+
+
+.level1{
+    font-size: 50px;
+    background-color: rgb(188, 240, 188);
+    border: none;
+    border-radius: 18px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+
+.level1:hover{
+    opacity: 0.7
+}
+
+
+.level1:active{
+    opacity: 0.4;
+}
+
+
+.level2{
+    font-size: 50px;
+    background-color: rgb(188, 240, 188);
+    border: none;
+    border-radius: 18px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.level2:hover{
+    opacity: 0.7
+}
+
+
+.level2:active{
+    opacity: 0.4;
+}
+
+.level3{
+    font-size: 50px;
+    background-color: rgb(188, 240, 188);
+    border: none;
+    border-radius: 18px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.level3:hover{
+    opacity: 0.7
+}
+
+
+.level3:active{
+    opacity: 0.4;
+}
+
+.level4{
+    font-size: 50px;
+    background-color: rgb(188, 240, 188);
+    border: none;
+    border-radius: 18px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.level4:hover{
+    opacity: 0.7
+}
+
+
+.level4:active{
+    opacity: 0.4;
+}
+
+.level5{
+    font-size: 50px;
+    background-color: rgb(188, 240, 188);
+    border: none;
+    border-radius: 18px;
+    transition: opacity 0.15s;
+    cursor: pointer;
+}
+
+.level5:hover{
+    opacity: 0.7
+}
+
+.level5:active{
+    opacity: 0.4;
+}
