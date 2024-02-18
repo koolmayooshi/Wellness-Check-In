@@ -5,6 +5,9 @@ When a user first enters the site, there is a prompt that allows them to input t
 This name is then used to be displayed with a welcome message to
 make the experience more personalized.
 
+IMMERSIVE EXPERIENCE
+Under the greeting header, the user will be provided with an option to play an audio that relates with the background video. This adds a dimensional and immersive experience when doing the wellness check-in.
+
 INTERACTIVE MOOD CHECK
 Scrolling down, the user will be asked how their day is with the provided 5 emoji selections.
 When clicked, a button will output a general response based on the mood, as well as suggested activity.
