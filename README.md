@@ -1,4 +1,4 @@
-This site uses HTML, CSS, and Javascript to make a personalized expereince when completing a wellness check-in. It is yet to be uploaded on to a server.
+This site uses HTML, CSS, and Javascript to make a personalized expereince when completing a wellness check-in. It is yet to be uploaded on to a server and still operates on a local host.
 
 PERSONALIZED GREETING
 When a user first enters the site, there is a prompt that allows them to input their name. 
